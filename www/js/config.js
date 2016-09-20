@@ -1,8 +1,8 @@
 
 var krms_config ={	
-	'ApiUrl' : "YOUR_API_URL",
-	'DialogDefaultTitle' : "YOUR_OWN_DIALOG_TITLE",
-	'pushNotificationSenderid' : "YOUR_ANDROID_PUSH_PROJECT_ID",
-	'facebookAppId' : "YOUR_FACEBOOK_APP_ID",
-	'APIHasKey' : "YOUR API HASH KEY (OPTIONAL)"
+	'ApiUrl' : "http://www.myvipclubs.com/shop/mobileapp/api",
+	'DialogDefaultTitle' : "MyVIPClubs Says",
+	'pushNotificationSenderid' : "30879657255",
+	'facebookAppId' : "235939103087629",
+	'APIHasKey' : "c4ec0c2db3ef373b7937bf3764c5f680"
 };
