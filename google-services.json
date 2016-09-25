@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "30879657255",
+    "firebase_url": "https://myvipclubs-b7565.firebaseio.com",
+    "project_id": "myvipclubs",
+    "storage_bucket": "myvipclubs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30879657255:android:417765fdd79e8da7",
+        "android_client_info": {
+          "package_name": "com.myvipclubs.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30879657255-6m1al9ela977clflftbpnnsnom2d8aco.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "30879657255-ud0rjf6q4pjn2mppuunb8384sjlv7ge9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "30879657255-lg5621a9rgdvtr3v27otnejrl5hmd21h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DIhYyqHoIHOkB_2_GdicseuToSRWX34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
